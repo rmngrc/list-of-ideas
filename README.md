@@ -7,3 +7,5 @@
 - Build something using Blockchain. Bitcoin and/or Ethereum.
 
 - SASS mixins to help out folks build multi-branded websites and apps.
+
+- CLI to help manage [Optimizely X](https://www.optimizely.com/products/full-stack/) experiments from the Terminal. Be able to CRUD all aspects of a given experiment.
